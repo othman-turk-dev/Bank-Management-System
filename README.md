@@ -55,3 +55,7 @@ A console-based Bank Management System developed in multiple stages throughout m
 ## Purpose
 
 This project was developed to practice software evolution by continuously improving the same system through multiple iterations, moving from a basic procedural implementation to a role-based application and finally an OOP-based design.
+
+## Demo
+
+Watch the system demo: https://youtu.be/cdBPjH4SSyM
